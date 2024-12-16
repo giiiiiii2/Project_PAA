@@ -1,0 +1,41 @@
+# Hasil Perhitungan Waktu Eksekusi
+# Nama: Anggita Setiawati
+# Stambuk: F55123092
+# Kelas: C
+
+# Format:
+# n: [ukuran array]
+# Worst Case: [waktu eksekusi worst case dalam detik]
+# Average Case: [waktu eksekusi average case dalam detik]
+
+n = 100
+Worst Case: 0.0000036000 s
+Average Case: 0.0000048000 s
+
+n = 150
+Worst Case: 0.0000075000 s
+Average Case: 0.0000163000 s 
+
+n = 200
+Worst Case: 0.0000049000 s
+Average Case: 0.0000097000 s
+
+n = 250
+Worst Case:  0.0000070000 s
+Average Case: 0.0000123000 s
+
+n = 300
+Worst Case: 0.0000045000 s
+Average Case: 0.0000075000 s
+
+n = 350
+Worst Case: 0.0000051000 s
+Average Case: 0.0000083000 s
+
+n = 400
+Worst Case: 0.0000056000 s
+Average Case: 0.0000084000 s
+
+n = 500
+Worst Case: 0.0000065000 s
+Average Case: 0.0000101000 s
